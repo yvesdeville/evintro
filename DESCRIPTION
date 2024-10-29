@@ -1,0 +1,13 @@
+Package: evintro
+Type: Package
+Title: Extreme Value Introduction
+Version: 0.1.0
+Author: Yves Deville <deville.yves@alpestat.com>
+Maintainer: Yves Deville <deville.yves@alpestat.com>
+Description: Basic utility functions for an introduction to Extreme Value analysis.
+License: GPL (>= 3)
+Depends: evd, extRemes, ismev, Renext, nieve
+Imports: graphics, stats
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
